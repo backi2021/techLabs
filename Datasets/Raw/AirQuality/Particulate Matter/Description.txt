@@ -1,6 +1,6 @@
 Quelle der Daten: https://www.lanuv.nrw.de/umwelt/luft/immissionen/berichte-und-trends/einzelwerte-kontinuierlicher-messungen
 
-Die drei Tabellen sind nach Jahren aufgeteilt und enthalten den stündlich gemessenen Stickstoffmittelwert. Nicht
+Die drei Tabellen sind nach Jahren aufgeteilt und enthalten den stündlich gemessenen Feinstaubmittelwert. Nicht
 von jeder Messtation wurden Daten übermittelt. Die Werte werden häufig mit < und > Zeichen angegeben, zum Beispiel
  <10. Gemessen wurde in [µg/m³].
 
